@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2BC35F8-EEE3-4C27-ABA6-6A75104C931B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DebuggingLocalizedAppSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1CA58B4-C1A6-4BCC-BFBD-E4F25B8A4E11</key>
+		<string>https://github.com/masakihirokawa/xcode-localized-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DebuggingLocalizedAppSample/DebuggingLocalizedAppSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1CA58B4-C1A6-4BCC-BFBD-E4F25B8A4E11</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/masakihirokawa/xcode-localized-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1CA58B4-C1A6-4BCC-BFBD-E4F25B8A4E11</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1CA58B4-C1A6-4BCC-BFBD-E4F25B8A4E11</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xcode-localized-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
